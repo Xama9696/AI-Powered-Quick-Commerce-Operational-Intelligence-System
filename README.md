@@ -1,5 +1,9 @@
 # OperaIQ — AI-Powered Quick Commerce Operational Intelligence System
 
+Live Demo
+
+🚀 Streamlit App: https://ai-powered-quick-commerce-operational-intelligence-system-quao.streamlit.app/
+
 ## Overview
 OperaIQ is an AI-powered operational intelligence platform designed for quick commerce and supply chain operations. The project integrates warehouse fulfillment analytics, dispatch intelligence, SLA monitoring, rider utilization analysis, and operational cost optimization into a unified operational analytics system.
 
